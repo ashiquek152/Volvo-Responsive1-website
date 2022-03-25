@@ -55,3 +55,7 @@ height: 45em;
   color: white;
   text-decoration: none;
 }
+.footerRow a:hover
+{
+  color:red:
+}
