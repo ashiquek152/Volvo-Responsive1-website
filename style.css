@@ -1,0 +1,57 @@
+
+*{
+  max-width: 100%;
+}
+
+html,body
+{
+  margin: 0;
+  overflow-x: hidden;
+  width: 100%;
+}
+#brandicon
+{
+  height: 1rem;
+  margin-right: 45%;
+  margin-left: 5%;
+  margin-top: 2rem;
+  height: 1rem;
+}
+.head
+{
+  background-image: url(icons/WallpaperDog-5509945.jpg);
+  background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 45em;
+}
+.headtext
+{
+  margin-top: 15rem;
+  margin-left: 40%;
+  color: #fff;
+
+}
+.container{
+  cursor: pointer;
+
+
+}
+#videovolvo
+{
+   width: 1200px;
+    height: 675px;
+     left: 0px;
+      top: 0px;
+}
+.footerRow
+{
+  color: #fff;
+  background-color: black;
+
+}
+.footerRow a
+{
+  color: white;
+  text-decoration: none;
+}
